@@ -1,0 +1,24 @@
+.header-box{
+    background-color: #aec6fa;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.header-txt{
+    font-size:25px;
+    font-weight: 600;
+    color: #333842;
+    margin-left: 10px;
+}
+
+.header-logo{
+    font-size: 100px !important;
+    margin-left: 10px;
+}
+
+.header-separator{
+    width: 100%;
+    background-color: #404756;
+    padding-bottom: 5px;
+}

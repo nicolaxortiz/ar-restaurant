@@ -1,0 +1,38 @@
+.general-product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-product{
+    background-color: #4564a7;
+    width: fit-content;
+    border-radius: 15px;
+
+}
+
+.box-information{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title-information{
+    background-color: #acc5fc;
+    width: 80%;
+    border-radius: 8px;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.description-information{
+    background-color: #cdddfd;
+    width: 80%;
+    border-radius: 8px;
+    padding: 5px 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

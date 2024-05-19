@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../components/Header";
 import Search from "../components/Search";
 import Products from "../components/Products";
+import Footer from "../components/Footer";
 
 function Menu() {
   return (
@@ -9,6 +10,7 @@ function Menu() {
       <Header />
       <Search />
       <Products />
+      <Footer />
     </>
   );
 }

@@ -23,7 +23,7 @@ function ARcamera() {
         <a-entity
           position="0 0 0"
           scale="15 15 15"
-          rotation="-30 0 0"
+          rotation="-10 0 0"
           gltf-model={modelUrl}
         ></a-entity>
       </a-marker>
